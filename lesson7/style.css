@@ -1,0 +1,12 @@
+.register{
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    text-align: center;
+    display: inline-block;
+margin: 10% 5%;
+    padding-left: 10px;
+}
+body{
+    text-align: center;
+}
